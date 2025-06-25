@@ -3,7 +3,7 @@
 
 # Question & Solving
 ### Question: 
-#### If we list all the natural numbers below 10 that are multiples of 3 or 5, we get 3, 5, and 6, The sum of these multiples is 32.
+#### If we list all the natural numbers below 10 that are multiples of 3 or 5, we get 3, 5, 6, and 9. The sum of these multiples is 32.
 #### Find the sum of all the multiples of 3 or 5 below 1000.
 ### Solving:
 #### We will solve this question with Brute Forcing technique with Programming Languages
