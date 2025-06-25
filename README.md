@@ -12,7 +12,7 @@
 // C++
 int main()
 {
-  int relust = 0;
+  int result = 0;
   for (int i = 1; i < 1000; i++)
   {
     if (((i % 3) == 0) || ((i % 5) == 0)) 
@@ -26,7 +26,7 @@ int main()
 
 <pre>
 # Python
-  relust = 0
+  result = 0
   for i < range(1000):
     if ((i % 3) == 0) or ((i % 5) == 0): 
       result += i
